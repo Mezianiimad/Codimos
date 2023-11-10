@@ -7,7 +7,8 @@ export default function Home() {
       <Title>Hello World</Title>
       <h1>EURL CODIMOS</h1>
       <h3>COMPTOIR DE DISTRIBUTION DU MATÉRIEL ET OUTILLAGE SONELGAZ</h3>
-      <img src="/public/codimos_logo.png" alt="codimos logo" width="450" height="200">
+      <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
       <p>
         Visit{" "}
         <a href="https://main--startling-daifuku-bb8624.netlify.app/CodimosApp.apk" target="_blank">
