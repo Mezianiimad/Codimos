@@ -18,7 +18,7 @@ export default function Home() {
           Cliquez sur le lien pour télécharger l'APK de l'application administrateur {" "}
           <a href="https://main--startling-daifuku-bb8624.netlify.app/CodimosAppAdmin.apk" target="_blank">
             CodimosAppAdmin
-          </a>{
+          </a>
       </p>
     </main>
   );
