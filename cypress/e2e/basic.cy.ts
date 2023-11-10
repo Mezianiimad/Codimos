@@ -9,9 +9,9 @@ describe('empty spec', () => {
       .contains('', { matchCase: false })
   })
 
-  // it('displays Click button', () => {
-  //   cy.get('button')
-  //     .contains('Clicks');
-  //   .contains('');
-  // })
+  it('displays Click button', () => {
+    cy.get('button')
+      .contains('Clicks');
+    .contains('');
+  })
 })
