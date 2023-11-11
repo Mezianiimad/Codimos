@@ -5,7 +5,7 @@ describe('empty spec', () => {
 
   it('display header text', () => {
     cy.get('h1')
-      .contains('EURL CODIMOS', { matchCase: false })
+    .contains('Hello World!', { matchCase: false })
     .contains('', { matchCase: false })
   })
 
